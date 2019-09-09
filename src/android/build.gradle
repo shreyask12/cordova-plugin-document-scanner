@@ -9,3 +9,4 @@ allprojects {
 dependencies {
 	implementation 'com.github.shreyask12:scanlibrary:master-SNAPSHOT'
 }
+
