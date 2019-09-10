@@ -10,7 +10,6 @@ dependencies {
 	implementation 'com.github.shreyask12:scanlibrary:master-SNAPSHOT'
 }
 
-
 configurations.all {
     resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
 }
